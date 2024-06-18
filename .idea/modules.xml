@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exec.iml" filepath="$PROJECT_DIR$/Exec.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Learn-Woniuxy-JAVA.iml" filepath="$PROJECT_DIR$/.idea/Learn-Woniuxy-JAVA.iml" />
       <module fileurl="file://$PROJECT_DIR$/day-01/day-01.iml" filepath="$PROJECT_DIR$/day-01/day-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day-02/day-02.iml" filepath="$PROJECT_DIR$/day-02/day-02.iml" />
     </modules>
   </component>
 </project>
